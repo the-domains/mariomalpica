@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Mariomalpica]]></title>
         <description><![CDATA[Mariomalpica]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mariomalpica/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 16 Jan 2016 22:21:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 16 Jan 2016 22:21:14 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mariomalpica/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/91a857a7-d6bc-48d9-b4f3-544315824c70.jpg">]]></description>
-            <link>undefinedb5496b9a-5e39-4f31-a45c-29e663143154/index.html</link>
+            <link>https://thegrid.ai/mariomalpica/b5496b9a-5e39-4f31-a45c-29e663143154/index.html</link>
             <guid isPermaLink="false">b5496b9a-5e39-4f31-a45c-29e663143154</guid>
-            <pubDate>Sat, 16 Jan 2016 22:19:32 GMT</pubDate>
+            <pubDate>Sat, 16 Jan 2016 22:21:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
