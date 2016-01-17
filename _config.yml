@@ -1,40 +1,28 @@
+name: Mariomalpica
+favicon: null
+layout_spectrum: 0.03503092494793236
+typography_spectrum: 0.9625920110847801
+cta:
+  domain: null
+  bucket: null
+  version: null
 analytics:
-  twitter: null
   google: null
   facebook: null
+  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-collections:
-  - index:
-      path: /
-      number: 15
-      paginate: true
-      navigable: true
-    permalink:
-      path: '/:title/'
-    feed:
-      path: /rss.xml
-      format: rss
-      number: 10
-purpose: []
 color:
-  saturation: 0.8713596840389073
-  lightness: 0.3095714570954442
-  brandStrength: 0.8254564
   brandColors:
-    - '#F3F3F3'
-    - '#9A9A9A'
-    - '#020202'
-    - '#AC271E'
-    - '#165BB4'
-  rhythmicContrast: 0.3224049971904606
-typography_spectrum: 0.1863587
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.9994629
-favicon: null
-name: Mariomalpica
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.33367210859432817
+  lightness: 0.3095714570954442
+  saturation: 0.8713596840389073
+  rhythmicContrast: 0.32240499719046056
+purpose: []
